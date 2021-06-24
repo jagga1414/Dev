@@ -32,4 +32,4 @@ console.log(obj["full name"]);
 
 obj.place = "new york";
 obj.skills = ["dance","singing"];
-console.log(obj.movies[3].weakness[0])
+console.log(obj.movies[3].weakness[0].substring(5,9))
